@@ -1,4 +1,4 @@
-# german_sentiment_analysis_political_discourse
+# German Sentiment Analysis of Political Discourse
 Sentiment analysis of German political media discourse from sources of different political affiliations.
 The end result of this project was a scientific publication in the Journal of Environmental Treatment Techniques (Q4):
 
