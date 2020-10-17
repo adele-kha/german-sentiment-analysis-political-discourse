@@ -8,4 +8,5 @@ The main branch contains:
 1) "Data processing and sentiment analysis algorithm" for sentiment analysis;
 2) "Visualizations" code for data insights and visualizations; 
 3) "Emotion detection" code for identifying predominant emotions in text + visualizations;
-4) "Confusion matrices" code for manual validation. 
+4) "Confusion matrices" code for manual validation.
+5) "Dictionary Frequencies" code for locating the most frequently used sentiment words for each corpus. 
